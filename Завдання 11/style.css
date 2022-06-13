@@ -1,0 +1,13 @@
+th, td {
+  
+    border-color: #96D4D4;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+table {
+    text-align: center;
+    margin-top: 15px;
+}
+
